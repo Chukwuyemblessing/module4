@@ -1,0 +1,47 @@
+*{
+    padding: 0%;
+    margin: 0;
+    box-sizing: border-box;
+}
+.head h1{
+    text-align: center;
+
+}
+#section1 .inherit1 p{
+    font-size: 2rem;
+    text-align: center;
+    color: rgb(133, 8, 8);
+    
+}
+#section1{
+    width: 50%;
+    background: rgb(150, 230, 230);
+    margin: 2rem auto;
+    /* height: 50vh; */
+    padding: 2rem ;
+}
+
+#section1 .inherit1 .likes li{
+    margin: 1rem 0 1rem 2rem; 
+}
+#section2{
+    width: 50%;
+    border: 4px red dotted ;
+    margin: 2rem auto;
+    padding: 2rem;
+    
+    
+}
+#section2 .inherit2 p{
+    font-size: 2rem;
+    text-align: center;
+    color: rgb(35, 16, 214);
+    
+} 
+#section2 .inherit2 .dislikes li{
+    margin: 1rem 0 1rem 2rem; 
+}  
+#section2 .inherit2 .dislikes li{
+    color: rgb(92, 6, 6);
+}
+
