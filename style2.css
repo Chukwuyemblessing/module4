@@ -1,0 +1,44 @@
+*{
+    margin: auto;
+    box-sizing: border-box;
+    padding: 0;
+}
+h3{
+    font-size: 18px;
+}
+.name{
+    margin: auto;
+    text-align: center;
+    padding: 1rem  0.5rem 0;
+    background-color: white;
+    color: green;
+}
+.name p{
+    padding: 0.5rem;
+    font-size: 14px;
+    
+}
+.sofar{
+    margin: auto;
+    text-align: center;
+    padding: 1rem 0.5rem 0;
+    font-size: 14px;
+    color: red;
+}
+.sofar ol{
+    padding: 0.5rem;
+    font-size: 14px;
+}
+.difference{
+    margin: auto;
+    text-align: center;
+    padding: 1rem 0.5rem 0;
+    color: blue;
+}
+.difference p{
+    padding: 0.5rem;
+    font-size: 14px;
+}
+.difference img{
+    padding: 1rem;
+}
